@@ -2,9 +2,9 @@
 - 👀 I’m interested in designing a visual or 3d art
 - 🌱 I’m currently learning coding for my college
 - 💞️ I’m looking to collaborate on speaking foreign language
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 akunkuliahazka11@gmail.com
+- 😄 zest more!
+- ⚡ from zero to be hero
 
 <!---
 zetcode777/zetcode777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
